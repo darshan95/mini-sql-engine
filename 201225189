@@ -1,0 +1,2 @@
+g++ myparser.cpp
+./a.out "$1"
